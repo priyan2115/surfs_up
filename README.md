@@ -1,2 +1,6 @@
 # surfs_up
-using jupyter notebook and vscode
+### Overview of the statistical analysis:
+    *In this challange we have to found the temprature of Hwaii in month of June and December. from this data we can get an idea about the sale of Ice-Cream.
+    As we perform the challange and got the result we get the data of temprature for perticular months.
+### Results:
+### Summary:
