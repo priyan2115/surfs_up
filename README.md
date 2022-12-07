@@ -10,6 +10,6 @@
 *We can see the maximum temperature in the following images that 85 degree temprature was measured in June compared to a maximum temperature of 83 degree in December.
 
 *The lowest minimum temperature is 56 degrees in .
-![image](link)
-![image](link)
+![december_temp_statistics](december_temp_statistics.png)
+![june_temp_statistics](june_temp_statistics.png)
 ### Summary:
