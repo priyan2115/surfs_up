@@ -15,6 +15,7 @@
 ![december_temp_statistics](december_temp_statistics.png)
 
 ### Summary:
+* Comparing the June and December weather, the temperatures and precipitation means are reasonably close.The ratio of the temperatures to the precipitation for the two months is also similar. The data supports opening a Surf and Ice Cream shop year-round.
 * There are two extra june and december temprature calculation we can see in following Images
 
 ![june_temp_prcp](june_temp_prcp.png)
